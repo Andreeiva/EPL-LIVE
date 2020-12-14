@@ -1,7 +1,7 @@
 [
   {
     "bannerCategoryId": "1",
-    "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/6123/index.m3u8",
+    "fileUrl": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
     "id": 1,
     "imageUrl": "https://i2-prod.football.london/tottenham-hotspur-fc/article18474006.ece/ALTERNATES/s1200/0_Tottenham-vs-West-Ham.png",
     "movieName": "RENNES VS CHELSEA"
@@ -9,7 +9,7 @@
     
   {
     "bannerCategoryId": "2",
-    "fileUrl": "https://videos.footballia.net/uploads/video/source_file/33688/2019-20_Arsenal_-_Chelsea__Cup_Final__-_2.mp4",
+    "fileUrl": "",
     "id": 1,
     "imageUrl": "https://i.cdn.newsbytesapp.com/images/l147_24461586681675.jpg",
     "movieName": "MANCHESTER UNITED VS INSTABUL BASEKSHIR"
