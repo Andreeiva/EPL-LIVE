@@ -3,31 +3,31 @@
     
   {
     "bannerCategoryId": "1",
-       "fileUrl": "",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/sg_7c3_i94U/maxresdefault.jpg",
-    "movieName": "	Sheffield United vs Newcastle United"
- },
-  {
-    "bannerCategoryId": "1",
-       "fileUrl": "",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/WB0rEyb__2E/maxresdefault.jpg",
-    "movieName": "Wolves vs Everton"
- },
-   {
-    "bannerCategoryId": "1",
-       "fileUrl": "",
-    "id": 8,
-  "imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
-    "movieName": "	Burnley vs Manchester United"
-},
-    
-  {
-    "bannerCategoryId": "1",
-    "fileUrl": "",
-    "id": 1,
-    "imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
-    "movieName": "	Burnley vs Manchester United"
+      "fileUrl": "",
+				"id": 8,
+				"imageUrl": "https://i.ytimg.com/vi/sg_7c3_i94U/maxresdefault.jpg",
+				"movieName": "Sheffield United vs Newcastle United"
+			},
+			{
+				"bannerCategoryId": "1",
+				"fileUrl": "",
+				"id": 8,
+				"imageUrl": "https://i.ytimg.com/vi/WB0rEyb__2E/maxresdefault.jpg",
+				"movieName": "Wolves vs Everton"
+			},
+			{
+				"bannerCategoryId": "1",
+				"fileUrl": "",
+				"id": 8,
+				"imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
+				"movieName": "Burnley vs Manchester United"
+			},
+
+			{
+				"bannerCategoryId": "1",
+				"fileUrl": "",
+				"id": 1,
+				"imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
+				"movieName": "Burnley vs Manchester United"
   }
 ]  
