@@ -3,23 +3,23 @@
     
   {
     "bannerCategoryId": "1",
-   "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+   "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8",
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/EdJ8WVLvLoM/maxresdefault.jpg",
-    "movieName": "INTER VS JUVENTUS"
+    "imageUrl": "https://i.ytimg.com/vi/f33YT8ve6cI/maxresdefault.jpg",
+    "movieName": "Arsenal vs Newcastle United"
   },
   {
     "bannerCategoryId": "1",
-   "fileUrl": "https://dailysportbucket7.s3.eu-west-2.amazonaws.com/15/15.m3u8",
-    "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/1w6I8lDAQhk/maxresdefault.jpg",
-    "movieName": "Barcelona VS Athletic Club"
+   "fileUrl": "http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8",
+      "id": 2,
+    "imageUrl": "https://i.ytimg.com/vi/f33YT8ve6cI/maxresdefault.jpg",
+    "movieName": "Arsenal vs Newcastle United"
   },
   {
     "bannerCategoryId": "1",
-  "fileUrl": "http://46f136e2.kazaktelekom.com/iptv/2GU6SMVG2ARSBF/2560/index.m3u8",
+  "fileUrl": "https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8,
     "id": 2,
-    "imageUrl": "https://i.ytimg.com/vi/1w6I8lDAQhk/maxresdefault.jpg",
-    "movieName": "Barcelona VS Athletic Club"
+    "imageUrl": "https://i.ytimg.com/vi/f33YT8ve6cI/maxresdefault.jpg",
+    "movieName": "Arsenal vs Newcastle United"
   }
 ]  
